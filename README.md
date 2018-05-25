@@ -15,12 +15,13 @@ This bot- Andreea aims to chat with users for the sake of conversation and engag
 - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) 
 
 - Extras For Building :
-      -[react-native-cli](https://facebook.github.io/react-native/docs/getting-started.html)
-      -Download and Install latest JDK version
+
+      - [react-native-cli](https://facebook.github.io/react-native/docs/getting-started.html)
+      - Download and Install latest JDK version
       
 
 ## Result:
-<img src='https://user-images.githubusercontent.com/24764528/40529746-d4b8c2a2-6013-11e8-81ef-9b09f1e2a5f8.gif' width='400px'>
+<img src='https://user-images.githubusercontent.com/24764528/40543407-d5014d00-6041-11e8-8c77-9524d8922995.gif' width='400px'>
 
 ## Procedure:
 
@@ -42,15 +43,17 @@ This bot- Andreea aims to chat with users for the sake of conversation and engag
 
 -use chatAgent [API Reference](https://dialogflow.com/docs/reference/agent/query) to get responses 
 
-<img src='https://user-images.githubusercontent.com/24764528/40528333-505c55dc-600e-11e8-8866-b5cb7db88622.png' width='500px'>
+<img src='https://user-images.githubusercontent.com/24764528/40543435-fc022b2c-6041-11e8-9569-28ef70d73efe.png' width='500px'>
 
 ## Building Project
 
 - `Ejecting App` - To build and deploy app, you'll need to eject from CRNA and use Xcode and Android Studio.
 
-           To Eject follow the below instructions:
+     To Eject follow the below instructions:
         ```bash
+
             $ npm run eject
+
        ```
 
 -refer [link](https://facebook.github.io/react-native/docs/signed-apk-android.html)
@@ -66,8 +69,10 @@ This bot- Andreea aims to chat with users for the sake of conversation and engag
 
            Follow these instructions:
         ```bash
+
             $  cd android && ./gradlew assembleRelease
             $ react-native run-android --variant=release
+
         ```   
 
 ## Vote of Thanks
