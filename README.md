@@ -16,8 +16,8 @@ This bot- Andreea aims to chat with users for the sake of conversation and engag
 
 - Extras For Building :
 
-      - [react-native-cli](https://facebook.github.io/react-native/docs/getting-started.html)
-      - Download and Install latest JDK version
+     - [react-native-cli](https://facebook.github.io/react-native/docs/getting-started.html)
+     - Download and Install latest JDK version
       
 
 ## Result:
@@ -50,11 +50,9 @@ This bot- Andreea aims to chat with users for the sake of conversation and engag
 - `Ejecting App` - To build and deploy app, you'll need to eject from CRNA and use Xcode and Android Studio.
 
      To Eject follow the below instructions:
-        ```bash
-
-            $ npm run eject
-
-       ```
+    ```bash
+        $ npm run eject
+    ```
 
 -refer [link](https://facebook.github.io/react-native/docs/signed-apk-android.html)
 
@@ -68,12 +66,10 @@ This bot- Andreea aims to chat with users for the sake of conversation and engag
 
 
            Follow these instructions:
-        ```bash
-
-            $  cd android && ./gradlew assembleRelease
-            $ react-native run-android --variant=release
-
-        ```   
+   ```bash
+     $  cd android && ./gradlew assembleRelease
+      $ react-native run-android --variant=release
+  ```   
 
 ## Vote of Thanks
 
