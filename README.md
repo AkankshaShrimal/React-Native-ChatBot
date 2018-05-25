@@ -21,7 +21,8 @@ This bot- Andreea aims to chat with users for the sake of conversation and engag
       
 
 ## Result:
-<img src='https://user-images.githubusercontent.com/24764528/40543407-d5014d00-6041-11e8-8c77-9524d8922995.gif' width='400px'>
+<p align="center">
+<img src='https://user-images.githubusercontent.com/24764528/40543407-d5014d00-6041-11e8-8c77-9524d8922995.gif' width='400px'></p>
 
 ## Procedure:
 
@@ -43,7 +44,7 @@ This bot- Andreea aims to chat with users for the sake of conversation and engag
 
 -use chatAgent [API Reference](https://dialogflow.com/docs/reference/agent/query) to get responses 
 
-<img src='https://user-images.githubusercontent.com/24764528/40543435-fc022b2c-6041-11e8-9569-28ef70d73efe.png' width='500px'>
+<img src='https://user-images.githubusercontent.com/24764528/40543435-fc022b2c-6041-11e8-9569-28ef70d73efe.png' width='600px'>
 
 ## Building Project
 
@@ -65,10 +66,11 @@ This bot- Andreea aims to chat with users for the sake of conversation and engag
 -Generating the release APK and Testing the release build of app
 
 
-           Follow these instructions:
+  
+  Follow these instructions:
    ```bash
-     $  cd android && ./gradlew assembleRelease
-      $ react-native run-android --variant=release
+    $ cd android && ./gradlew assembleRelease
+     $ react-native run-android --variant=release
   ```   
 
 ## Vote of Thanks
