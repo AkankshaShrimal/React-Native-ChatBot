@@ -21,7 +21,7 @@ This bot- Andreea aims to chat with users for the sake of conversation and engag
       
 
 ## Result:
-<img src='https://user-images.githubusercontent.com/24764528/40529746-d4b8c2a2-6013-11e8-81ef-9b09f1e2a5f8.gif' width='500px'>
+<img src='https://user-images.githubusercontent.com/24764528/40529746-d4b8c2a2-6013-11e8-81ef-9b09f1e2a5f8.gif' width='400px'>
 
 ## Procedure:
 
@@ -75,5 +75,5 @@ This bot- Andreea aims to chat with users for the sake of conversation and engag
 
 - Thanks to [Farid Safi](https://github.com/FaridSafi) whose chat template helped me making this chatbot.
 
-- Thanks to [Google-Dialogflow](https://dialogflow.com/?gclid=CjwKCAjwxZnYBRAVEiwANMTRX_Hf3N1EfTCtvRxh1LgVbbZuFhvBX0JI8LjjLCtmjzR1txjk_rZcPhoCwBoQAvD_BwE) for letting me develop a chatAgent using dialogflow platform and smallTalk feature.
+- Thanks to [Google-Dialogflow](https://dialogflow.com/?gclid=CjwKCAjwxZnYBRAVEiwANMTRX_Hf3N1EfTCtvRxh1LgVbbZuFhvBX0JI8LjjLCtmjzR1txjk_rZcPhoCwBoQAvD_BwE) for develop a chatAgent using dialogflow platform and smallTalk feature.
  
