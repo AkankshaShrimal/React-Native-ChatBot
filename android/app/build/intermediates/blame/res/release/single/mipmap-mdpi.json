@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/anubhavshrimal/Documents/chatbot (copy)/android/app/build/intermediates/res/merged/release/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/anubhavshrimal/Documents/chatbot (copy)/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/anubhavshrimal/Documents/react-native/Andreea/android/app/build/intermediates/res/merged/release/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/anubhavshrimal/Documents/react-native/Andreea/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/anubhavshrimal/Documents/Andreea/android/app/build/intermediates/res/merged/release/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/anubhavshrimal/Documents/Andreea/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/anubhavshrimal/Documents/react-native/final project/Andreea/android/app/build/intermediates/res/merged/release/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/anubhavshrimal/Documents/react-native/final project/Andreea/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/anubhavshrimal/Documents/chatbot /android/app/build/intermediates/res/merged/release/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/anubhavshrimal/Documents/chatbot /android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

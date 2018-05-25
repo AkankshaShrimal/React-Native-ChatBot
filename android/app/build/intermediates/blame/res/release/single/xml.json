@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/anubhavshrimal/Documents/react-native/final project/Andreea/android/app/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/home/anubhavshrimal/Documents/react-native/final project/Andreea/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/anubhavshrimal/Documents/Andreea/android/app/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/home/anubhavshrimal/Documents/Andreea/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/anubhavshrimal/Documents/chatbot (copy)/android/app/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/home/anubhavshrimal/Documents/chatbot (copy)/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/anubhavshrimal/Documents/react-native/Andreea/android/app/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/home/anubhavshrimal/Documents/react-native/Andreea/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/anubhavshrimal/Documents/chatbot /android/app/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/home/anubhavshrimal/Documents/chatbot /android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.52.0/res/xml/preferences.xml"
+    }
+]
