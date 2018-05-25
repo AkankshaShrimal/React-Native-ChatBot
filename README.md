@@ -14,8 +14,7 @@ This bot- Andreea aims to chat with users for the sake of conversation and engag
 - [react-native-tts](https://github.com/ak1394/react-https://dialogflow.com/docs/reference/agent/querynative-tts) 
 - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) 
 
-- Extras For Building:
-
+- Extras For Building :
       -[react-native-cli](https://facebook.github.io/react-native/docs/getting-started.html)
       -Download and Install latest JDK version
       
@@ -29,7 +28,7 @@ This bot- Andreea aims to chat with users for the sake of conversation and engag
 
 ## Running React Native application:
 
--Install the 'Expo' client app on your iOS or Android phone.
+-Install the `Expo` client app on your iOS or Android phone.
 
 -Connect to the same wireless network as your PC and run successfully. 
 
@@ -39,7 +38,7 @@ This bot- Andreea aims to chat with users for the sake of conversation and engag
 
 -Create intents and corresponding responses
 
--Add 'Small Talk' using [link](https://dialogflow.com/docs/small-talk).
+-Add `Small Talk` using [link](https://dialogflow.com/docs/small-talk).
 
 -use chatAgent [API Reference](https://dialogflow.com/docs/reference/agent/query) to get responses 
 
@@ -47,7 +46,7 @@ This bot- Andreea aims to chat with users for the sake of conversation and engag
 
 ## Building Project
 
-- 'Ejecting App' - To build and deploy app, you'll need to eject from CRNA and use Xcode and Android Studio.
+- `Ejecting App` - To build and deploy app, you'll need to eject from CRNA and use Xcode and Android Studio.
 
            To Eject follow the below instructions:
         ```bash
@@ -75,5 +74,5 @@ This bot- Andreea aims to chat with users for the sake of conversation and engag
 
 - Thanks to [Farid Safi](https://github.com/FaridSafi) whose chat template helped me making this chatbot.
 
-- Thanks to [Google-Dialogflow](https://dialogflow.com/?gclid=CjwKCAjwxZnYBRAVEiwANMTRX_Hf3N1EfTCtvRxh1LgVbbZuFhvBX0JI8LjjLCtmjzR1txjk_rZcPhoCwBoQAvD_BwE) for develop a chatAgent using dialogflow platform and smallTalk feature.
+- Thanks to [Google-Dialogflow](https://dialogflow.com/?gclid=CjwKCAjwxZnYBRAVEiwANMTRX_Hf3N1EfTCtvRxh1LgVbbZuFhvBX0JI8LjjLCtmjzR1txjk_rZcPhoCwBoQAvD_BwE) for developing dialogflow platform and smallTalk feature.
  
