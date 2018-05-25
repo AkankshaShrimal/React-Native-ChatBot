@@ -75,7 +75,7 @@ This bot- Andreea aims to chat with users for the sake of conversation and engag
 
 ## Vote of Thanks
 
-- Thanks to [Farid Safi](https://github.com/FaridSafi) whose chat template helped me making this chatbot.
+- Thanks to [Farid Safi](https://github.com/FaridSafi) for developing chat template.
 
 - Thanks to [Google-Dialogflow](https://dialogflow.com/?gclid=CjwKCAjwxZnYBRAVEiwANMTRX_Hf3N1EfTCtvRxh1LgVbbZuFhvBX0JI8LjjLCtmjzR1txjk_rZcPhoCwBoQAvD_BwE) for developing dialogflow platform and smallTalk feature.
  
